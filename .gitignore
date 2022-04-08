@@ -109,3 +109,6 @@ go.work
 ### Go Patch ###
 /vendor/
 /Godeps/
+
+# Ignores the whole .vscode folder
+.vscode/
