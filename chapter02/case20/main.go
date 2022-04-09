@@ -28,4 +28,5 @@ func main() {
 	println(&x, x)
 	//println(&y, y) // 报错：cannot take the address of y
 	println(y)
+	println(b, u)
 }
