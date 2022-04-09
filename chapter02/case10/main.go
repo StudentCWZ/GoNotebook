@@ -23,7 +23,7 @@ const s = "hello, world!"
 const c = '我' // rune(unicode code point)
 
 const (
-	i, f = 1, 0.123
+	i, f = 1, 0.123 // int, float64(默认)
 	b    = false
 )
 
